@@ -1,7 +1,6 @@
 ---
 title: Use the Azure Stack validation tool to validate system state | Microsoft Docs
 description: Learn how to use the Azure Stack validation tool to validate system state.
-services: azure-stack
 author: justinha
 manager: femila
 services: azure-stack

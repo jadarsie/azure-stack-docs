@@ -12,7 +12,6 @@ ms.workload: na
 pms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: quickstart
-ms.custom: mvc
 ms.date: 06/07/2019
 ms.author: justinha
 ms.custom: mvc
